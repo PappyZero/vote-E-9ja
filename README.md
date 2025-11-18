@@ -1,0 +1,1 @@
+The project is vote-e-9ja Nigeria focused on blockchain-backed voting transparency.

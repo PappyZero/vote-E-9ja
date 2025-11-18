@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "candidate-1",
+      "description": "Photo of candidate Bola Ahmed Tinubu",
+      "imageUrl": "/images/bola_ahmed_tinubu.png",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "candidate-2",
+      "description": "Photo of candidate Atiku Abubakar",
+      "imageUrl": "/images/atiku_abubakar.png",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "candidate-3",
+      "description": "Photo of candidate Peter Obi",
+      "imageUrl": "/images/peter_obi.png",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "candidate-4",
+      "description": "Photo of candidate Rabiu Kwankwaso",
+      "imageUrl": "/images/rabiu_kwankwaso.png",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "hero-image",
+      "description": "A diverse group of Nigerian citizens at a polling station",
+      "imageUrl": "https://images.unsplash.com/photo-1604212563354-546134b8004f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx2b3RpbmclMjBuaWdlcmlhfGVufDB8fHx8MTc2MzQ2NzMzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "voting nigeria"
+    }
+  ]
+}
